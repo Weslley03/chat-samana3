@@ -12,7 +12,7 @@ object Dm: TDm
       'Server=127.0.0.1'
       'Port=3050'
       'DriverID=FB')
-    Connected = True
+    Connected = False
     LoginPrompt = False
     Left = 40
     Top = 40
